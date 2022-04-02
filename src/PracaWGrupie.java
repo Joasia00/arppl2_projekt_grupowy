@@ -7,6 +7,6 @@ public class PracaWGrupie {
     // piękny
     // ład :P
 
-
+// Ale beka jaja jak berety uga buga jeste programiste
     // Napotkałeś pape szczescia wyslij to do 10 osob
 }
