@@ -9,4 +9,5 @@ public class PracaWGrupie {
 
 // Ale beka jaja jak berety uga buga jeste programiste
     // Napotkałeś pape szczescia wyslij to do 10 osob
+    // wszystko skasowałem
 }
